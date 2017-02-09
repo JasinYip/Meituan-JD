@@ -1,4 +1,4 @@
-![美团点评](http://www.dpfile.com/ba/es/zhaopin-campus/assets/images/new_logo@2x.png)
+![美团点评](https://cloud.githubusercontent.com/assets/7105264/22767050/f9c0b4e2-eeb3-11e6-8b2c-185c4e1fc629.png)
 
 美团网（ https://meituan.com ）
 
